@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: cow
+  m_EditorClassIdentifier: 
+  m_GroupName: cow
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8865f0280f0e17d48a8593194eb3df2c
+  m_SerializeEntries:
+  - m_GUID: 5ea37e941229c304f99dd18d6f7bd2f8
+    m_Address: Assets/BundledAssets/testbundle/cow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7793ad39e05888e4880725736b2b64c0, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a166e16357887c844a7601ca5e03581b, type: 2}
+    - {fileID: 11400000, guid: ee60839d924e37d4991810ca95ce7567, type: 2}

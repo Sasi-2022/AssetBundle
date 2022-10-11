@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3361098257
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: testbundle
+      Dependencies: {}
+    Info_1:
+      Name: cat
+      Dependencies: {}
+    Info_2:
+      Name: cow
+      Dependencies: {}
+    Info_3:
+      Name: dog
+      Dependencies: {}

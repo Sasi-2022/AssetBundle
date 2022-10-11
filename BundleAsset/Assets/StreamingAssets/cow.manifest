@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3531346028
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf0d7beb912b72598ff76fdc4bb3e648
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ad6b12b2571626e113b7d8430dde5201
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BundledAssets/testbundle/cow.prefab
+Dependencies: []

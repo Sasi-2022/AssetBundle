@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 6359625
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2b18fd4adfe42969ef94b12d8e0c47f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ad6b12b2571626e113b7d8430dde5201
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BundledAssets/testbundle/dog.prefab
+Dependencies: []
